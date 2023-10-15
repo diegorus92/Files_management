@@ -1,3 +1,7 @@
+/**IMPORTANT:
+ * Its nescesary execute this code with nodejs to work
+ */
+
 var myCharacters = {
     character:[
         {name:"Naruto", age:15, show:"Naruto"},
